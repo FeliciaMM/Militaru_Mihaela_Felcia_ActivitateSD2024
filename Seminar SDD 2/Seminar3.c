@@ -32,7 +32,7 @@ void citesteFisier(const char* nume_fisier, struct Locuinta** vector, int* dim) 
 			(*dim) = 0;
 			char buffer[100];
 			char delimitator[] = ",\n";
-			while (fgets(buffer, 100,f) !=NULL) {
+			while (fgets(buffer, 100, f) != NULL) {
 				char* token;
 				token = strtok(buffer, delimitator);
 				struct Locuinta locuinta;
@@ -42,7 +42,7 @@ void citesteFisier(const char* nume_fisier, struct Locuinta** vector, int* dim) 
 				strcpy(locuinta.strada, token);
 				token = strtok(NULL, delimitator);
 				locuinta.numar = atoi(token);
-				inserareLocuinta(vector,dim,locuinta);
+				inserareLocuinta(vector, dim, locuinta);
 			}
 		}
 		fclose(f);
