@@ -1,0 +1,5 @@
+﻿  Task1.c
+C:\Users\felic\source\repos\Task-uri Suplimentare\Task-uri Suplimentare\Task1.c(40,10): warning C4047: 'return': 'int' differs in levels of indirection from 'Ferma *'
+C:\Users\felic\source\repos\Task-uri Suplimentare\Task-uri Suplimentare\Task1.c(53,27): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\felic\source\repos\Task-uri Suplimentare\Task-uri Suplimentare\Task1.c(54,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+  Task-uri Suplimentare.vcxproj -> C:\Users\felic\source\repos\Task-uri Suplimentare\x64\Debug\Task-uri Suplimentare.exe
