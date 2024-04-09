@@ -33,6 +33,12 @@
     <ClCompile Include="Seminar7.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Seminar1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Seminar8.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="Locuinte.txt">
