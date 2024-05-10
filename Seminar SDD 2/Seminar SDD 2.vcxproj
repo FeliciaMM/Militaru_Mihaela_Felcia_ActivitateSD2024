@@ -135,6 +135,7 @@
     <ClCompile Include="Seminar5.c" />
     <ClCompile Include="Seminar7.c" />
     <ClCompile Include="Seminar8.c" />
+    <ClCompile Include="Task suplimentar 10.c" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="Locuinte.txt" />

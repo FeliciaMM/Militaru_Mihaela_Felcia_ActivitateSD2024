@@ -1,0 +1,5 @@
+﻿  Task suplimentar 10.c
+C:\Users\felic\source\repos\Seminar SDD 2\Seminar SDD 2\Task suplimentar 10.c(202,40): warning C4133: ':': incompatible types - from 'Node *' to 'DoubleListNode *'
+C:\Users\felic\source\repos\Seminar SDD 2\Seminar SDD 2\Task suplimentar 10.c(260,10): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+C:\Users\felic\source\repos\Seminar SDD 2\Seminar SDD 2\Task suplimentar 10.c(264,10): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+  Seminar SDD 2.vcxproj -> C:\Users\felic\source\repos\Seminar SDD 2\x64\Debug\Seminar SDD 2.exe
